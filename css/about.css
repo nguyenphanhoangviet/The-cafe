@@ -1,0 +1,76 @@
+.container_about {
+    display: flex;
+  
+    justify-content: center;
+  
+    width: 100%;
+  
+    margin: 16px 0;
+  }
+  .about_title {
+    display: flex;
+  
+    height: 160px;
+  
+    justify-content: center;
+  
+    align-items: center;
+  }
+  .about_title h5 {
+    background-color: black;
+  
+    color: white;
+  
+    padding: 0 8px;
+  
+    font-size: 18px;
+  
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  
+    font-weight: 400;
+  
+    letter-spacing: 4px;
+  }
+  .about_let {
+  }
+  .about_let p {
+    font-size: 18px;
+  
+    margin: 18px 0;
+  
+    text-align: justify;
+  
+    font-weight: 600;
+  }
+  .about_letborder {
+    border-left: 6px solid #ccc;
+  
+    font-size: 18px;
+  
+    padding: 0.18px 16px;
+  
+    font-weight: 600;
+  
+    background: #f1f1f1;
+  }
+  .about_letborder p {
+    padding: 18px 0;
+  }
+  .about {
+    width: 60%;
+  }
+  .about_img{
+  
+  margin: 16px 0;
+  }
+  .about_img img{
+  
+  width: 100%;
+  }
+  .about_img p{
+  
+  margin: 18px 0;
+  
+  font-size: 18px;
+  }
+  

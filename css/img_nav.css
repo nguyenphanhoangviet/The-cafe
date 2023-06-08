@@ -1,0 +1,12 @@
+.container_img_nav {
+    margin-top: 40px;
+    position: relative;
+  }
+  .container_img_nav img{
+      
+  width: 100%;
+  }
+  .imglet_left {position: absolute;top: 97%;left: 2%;color: white;font-size: 15px;font-family: 'Inconsolata';padding: 0 8px;background: black;transform: translate(-2% , -97%);}
+  .imglet_center {position: absolute;left: 50%;top: 50%;font-size: 90px;color: white;font-family: 'Inconsolata';transform: translate(-50%, -50%);}
+  .imglet_right {position: absolute;right: 2%;top: 97%;font-size: 15px;color: white;font-family: 'Inconsolata';transform: translate(-2%, -97%);}
+  
