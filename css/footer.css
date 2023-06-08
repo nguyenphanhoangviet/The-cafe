@@ -1,0 +1,11 @@
+footer {
+    padding: 48px 0;
+  }
+  footer p {
+    text-align: center;
+    margin: 18px 0;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  footer a {color: black;}
+  
